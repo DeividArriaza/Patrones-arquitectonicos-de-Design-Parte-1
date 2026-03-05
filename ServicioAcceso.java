@@ -1,0 +1,3 @@
+interface ServicioAcceso {
+    void ejecutarServicio();
+}
